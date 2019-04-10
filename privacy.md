@@ -7,7 +7,7 @@ This page is used to inform visitors regarding my policies with the collection, 
 If you choose to use this app, then you agree to the collection and use of information in relation to this policy. 
 No Personal Information is collected by me or the app.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at EMDR App unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our [Terms and Conditions](terms.md), unless otherwise defined in this Privacy Policy.
 
 ## Information Collection and Use
 
@@ -19,6 +19,7 @@ Link to privacy policy of third party service providers used by the app
 
 
 [Google Play Services](https://policies.google.com/privacy)
+
 [Apple](https://www.apple.com/privacy/)
 
 
